@@ -1,0 +1,31 @@
+.background {
+  background-color: #686aac;
+  width: 100%;
+}
+
+.container_about {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 4rem auto;
+  width: 60%;
+  gap: 3rem;
+}
+
+.profile {
+  width: 17rem;
+  height: 17rem;
+}
+
+.title_presentation {
+  font-size: 2rem;
+  color: #0f0e0e;
+}
+
+.textAbout {
+  padding-top: 1rem;
+  text-align: justify;
+  font-size: 1.5rem;
+  font-weight: 100;
+  color: #fff;
+}
